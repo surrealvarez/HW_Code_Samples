@@ -1,4 +1,4 @@
-""" Jose C Alvarez, Peoplesoft ID: 1587271
+ Jose C Alvarez, UH MAIN CAMPUS
  Program #3: Detecting Trends and Foul Language in Twitter
  COSC 1306, Fall 2017
  This program compares different text files for foul language and returns tweets with
