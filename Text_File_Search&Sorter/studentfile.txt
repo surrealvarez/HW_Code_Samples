@@ -1,0 +1,6 @@
+jose 3.825
+adriel 3.335
+rafa 3.0
+jonny 3.99
+chris 3.02
+kanye 2.1
