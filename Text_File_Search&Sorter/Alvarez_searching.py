@@ -1,4 +1,5 @@
 """"" Jose Alvarez COSC 1304 : peoplesoft: 1587271"""
+#the purpose of this project is to improve sorting abilities and use of Dictionaries in python
 def BuildDictionary(mydict, studentfile):
     with open(studentfile, encoding='utf8') as file:
         for line in file:
