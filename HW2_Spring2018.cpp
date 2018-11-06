@@ -1,5 +1,4 @@
 //Jose Alvarez COSC HW 2
-// Peoplesoft: 1587271
 // Improve skillset upon dynamic arrays and pointers.
 
 #include <iostream>
