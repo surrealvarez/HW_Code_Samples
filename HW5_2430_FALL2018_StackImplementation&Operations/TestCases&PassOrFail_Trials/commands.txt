@@ -1,0 +1,4 @@
+java HW5 2 "2-3*4+5/6" "itp_1.output"
+java HW5 2 "(2+3)^4*5" "itp_2.output"
+java HW5 3 "23+4^5*" "p_1.output"
+java HW5 3 "23+-" "p_2.output"

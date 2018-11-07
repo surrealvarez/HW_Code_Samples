@@ -1,0 +1,7 @@
+1 A B
+2 A D
+3 A C
+4 A E
+3 C E
+2 D E
+1 B E
